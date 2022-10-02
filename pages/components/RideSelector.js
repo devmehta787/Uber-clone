@@ -14,7 +14,7 @@ function RideSelector() {
               <Service>{car.service}</Service>
               <Time>5 min</Time>
             </CarDetails>
-            <Price>₹ 450</Price>
+            <Price>{"₹" + 450 * car.multiplier}</Price>
           </Car>
         ))}
       </CarList>

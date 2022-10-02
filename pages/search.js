@@ -103,5 +103,5 @@ bg-gray-400 w-10 h-10 p-2 rounded-full mr-2
 `;
 
 const ConfirmLocation = tw.div`
-flex flex-col bg-black text-white items-center mt-10 py-2 mx-4 cursor-pointer transform rounded-md
+flex flex-col bg-black text-white items-center mt-10 py-2 mx-4 cursor-pointer transform hover:scale-105 rounded-md
 `;
