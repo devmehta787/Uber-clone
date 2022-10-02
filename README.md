@@ -1,5 +1,8 @@
 ## Getting Started
-First, run the development server:
+
+First clone the repo
+
+Flollowed by running thee server:
 ```bash
 npm run dev
 # or
