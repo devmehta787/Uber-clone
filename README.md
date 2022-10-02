@@ -37,6 +37,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Confirm Location 
 ![image](https://user-images.githubusercontent.com/67186094/193458896-ec29f1ca-9dc1-4287-b430-882fd62eb6b4.png)
 
-## Shows different rides available with varying prices
+## Shows different rides available
 ![image](https://user-images.githubusercontent.com/67186094/193458925-44f548b5-3bc8-4765-bf8a-86029632409f.png)
 
