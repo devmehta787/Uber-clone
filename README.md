@@ -1,35 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
-
 First, run the development server:
-
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tech Stack Used
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**next.js**
+##
+**Tailwind CSS**
 
-## Learn More
+##
+**Firbase**
+##
+**mapbox.gl for maps and other locations**
+##
 
-To learn more about Next.js, take a look at the following resources:
+## Login Page
+![image](https://user-images.githubusercontent.com/67186094/193458982-be8110ba-c0ab-473a-a5b1-4616b1229cdd.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Login using Google Authentication from firebase
+![image](https://user-images.githubusercontent.com/67186094/193459028-d57c1f0a-76a4-48e1-b1e1-e1a7134c50ac.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Home Page
+![image](https://user-images.githubusercontent.com/67186094/193458844-d4b13a47-e19d-4c81-9f54-33426bde83dd.png)
 
-## Deploy on Vercel
+## Confirm Location 
+![image](https://user-images.githubusercontent.com/67186094/193458896-ec29f1ca-9dc1-4287-b430-882fd62eb6b4.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Showa different rides available
+![image](https://user-images.githubusercontent.com/67186094/193458925-44f548b5-3bc8-4765-bf8a-86029632409f.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-![image](https://user-images.githubusercontent.com/67186094/193458726-9c0b7743-6ff5-4c62-89a1-0c9e7fc703cb.png)
