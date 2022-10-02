@@ -2,7 +2,7 @@
 
 First clone the repo
 
-Flollowed by running thee server:
+Flollowed by running the server:
 ```bash
 npm run dev
 # or
