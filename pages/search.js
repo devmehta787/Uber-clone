@@ -5,7 +5,6 @@ import Link from "next/link";
 const Search = () => {
   const [pickup, setPickup] = useState("");
   const [dropoff, setDropoff] = useState("");
-
   //   console.log(pickup, dropoff);
 
   return (
